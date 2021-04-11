@@ -1,4 +1,4 @@
-#The Hidden Search Widget
+# The Hidden Search Widget
 ## A simple HTML/CSS/JavaScript project
 
 ## About
